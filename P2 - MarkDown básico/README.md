@@ -2,7 +2,7 @@
 
 ## 1. Trabajo elaborado por el alumno
      
-   [Entrega - Pdf]()
+   [Entrega - Pdf](MarkdownBásico.pdf)
      
    [Entrega - Markdown](sostenibilidad.md)
      
