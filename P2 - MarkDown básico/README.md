@@ -1,6 +1,8 @@
 # 🌱 Práctica SASP02 – Introducción a Markdown y Sostenibilidad
 
 ## 1. Trabajo elaborado por el alumno
+
+     Trabajo realizado por: Federico Miguel Torrecillas Such
      
    [Entrega - Pdf](MarkdownBásico.pdf)
      
