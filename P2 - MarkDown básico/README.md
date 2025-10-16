@@ -1,6 +1,12 @@
 # 🌱 Práctica SASP02 – Introducción a Markdown y Sostenibilidad
 
-## 1. Introducción a Markdown
+## 1. Trabajo elaborado por el alumno
+     
+   [Entrega - Pdf]()
+     
+   [Entrega - Markdown](sostenibilidad.md)
+     
+## 2. Introducción a Markdown
 
 Markdown es un **lenguaje de marcas ligero** que permite escribir documentos de texto con formato de manera sencilla y legible. Se usa mucho en GitHub, foros técnicos y aplicaciones de notas porque:
 
@@ -48,7 +54,7 @@ print("Bloque de código en Python")
 
 ---
 
-## 2. Cómo visualizar documentos Markdown  
+## 3. Cómo visualizar documentos Markdown  
 Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:  
 
 ### Plataformas online
@@ -76,7 +82,7 @@ Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:
 
 ---
 
-## 3. Ejercicio propuesto  
+## 4. Ejercicio propuesto  
 
 ### Tarea del alumno
 1. Crea un fichero llamado `sostenibilidad.md`.  
